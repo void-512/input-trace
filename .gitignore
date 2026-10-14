@@ -1,0 +1,6 @@
+/build/
+/dependencies/
+/.codegraph/
+*.db
+*.db-wal
+*.db-shm
